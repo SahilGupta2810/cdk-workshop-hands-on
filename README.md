@@ -89,7 +89,7 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
 
        -  ***cdk synth***
 
-       -  ***cdk build***
+       -  ***cdk deploy***
 
        -  ***cdk bootstrap***
        
