@@ -7,7 +7,7 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
       https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html)
         
     - AWS Account and User
-        - Create an IAM user with ADministration permission
+        - Create an IAM user with Administration permission
             
             ![image](https://user-images.githubusercontent.com/65444832/174357563-7de09f22-8b13-4a43-b7c8-03fb39f54920.png)
             
