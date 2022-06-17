@@ -1,8 +1,13 @@
 # cdk-workshop-hands-on
 It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe our SQS-Queue and Email to a SNS-Topic using cdk v2. 
 
-- ***Prerequisites***
-    - AWS CLI - Interact with AWS Services through Terminal Session.
+<details><summary>Prerequisites</summary>
+<p>
+
+#### AWS CLI - Interact with AWS Services through Terminal Session.
+
+```ruby
+   - AWS CLI - Interact with AWS Services through Terminal Session.
         
       https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html)
         
@@ -25,9 +30,13 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
             
             (Downloaded .csv file consist of Access Key , Secret Access Key of IAM User—>aws configure)
             
-            
-        
-    - NodeJS
+           ``` 
+   
+
+
+
+#### NodeJS
+```ruby
         - Download :
             
             https://nodejs.dev/download](https://nodejs.dev/download
@@ -36,8 +45,9 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
             
             ***node —version***
             ![node-version](https://user-images.githubusercontent.com/65444832/174402030-82cd9e1d-f838-4753-b59e-0f775fe5ef6f.jpg)
-
-            
+```
+ </p>
+</details>            
          
     - IDE
         
@@ -93,6 +103,12 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
         -  ***cdk ls***
 
         -  ***cdk diff***
+
+
+
+
+- ***Prerequisites***
+    
 
         
 
