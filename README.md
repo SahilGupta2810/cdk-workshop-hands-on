@@ -71,6 +71,7 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
 
    - Build and Deploy
         - ***npm run build***
+            
             ![npmRun (2)](https://user-images.githubusercontent.com/65444832/174402119-fce116d2-1656-4aea-b213-b46a94abf0bd.jpg)
 
         
