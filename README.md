@@ -6,7 +6,7 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
 
    - AWS CLI - Interact with AWS Services through Terminal Session.
         
-      https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html)
+      https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html
         
    - AWS Account and User
         - Create an IAM user with Administration permission
