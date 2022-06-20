@@ -101,4 +101,4 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
         
         
 
-   - Email - Queue Confirmation
+ 
