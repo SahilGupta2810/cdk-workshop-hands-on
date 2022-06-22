@@ -40,7 +40,7 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
             
         - Check version : 
             
-            ***node —version***
+            node —version
             ![node-version](https://user-images.githubusercontent.com/65444832/174402030-82cd9e1d-f838-4753-b59e-0f775fe5ef6f.jpg)
 
             
@@ -53,33 +53,35 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
 
    - AWS CDK Toolkit
     
-       - Install the aws-cdk package:
+    - Install the aws-cdk package and Check the cdk version using 
        
-            ***npm install -g aws-cdk***
-            
-           
-       - Check the cdk version using 
-            
-           ***cdk —version***
-           ![cdk-install](https://user-images.githubusercontent.com/65444832/174401171-2daf799c-3251-4f91-a162-a50f5ebc78a7.png)
+         npm install -g aws-cdk
+   
+         cdk —version
+   
+      ![cdk-install](https://user-images.githubusercontent.com/65444832/174401171-2daf799c-3251-4f91-a162-a50f5ebc78a7.png)
 
             
                 
    - New Project
 
-        - ***cdk init app —language typescript***
-          ![new-project](https://user-images.githubusercontent.com/65444832/174401669-4e1f2106-ff8b-4794-bfce-b046723bf0c6.jpg)
+         cdk init app —language typescript
+   
+   
+     ![new-project](https://user-images.githubusercontent.com/65444832/174401669-4e1f2106-ff8b-4794-bfce-b046723bf0c6.jpg)
 
 
 
    - Build and Deploy
-        - ***npm run build***
+   
+         npm run build
             
             ![npmRun (2)](https://user-images.githubusercontent.com/65444832/174402119-fce116d2-1656-4aea-b213-b46a94abf0bd.jpg)
 
         
 
-        - ***cdk synth && cdk deploy***
+         cdk synth && cdk deploy
+   
               ![image](https://user-images.githubusercontent.com/65444832/174403396-1e32e098-f9a6-4da2-b715-cf3f911c89e9.png)
               ![synth and deploy](https://user-images.githubusercontent.com/65444832/174403521-a886eee0-ac0c-42e6-890b-d98a38995db6.png)
 
@@ -89,17 +91,17 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
 
    - Useful CDK commands:
 
-       -  ***npm run build***
+         npm run build
 
-       -  ***cdk synth***
+         cdk synth
 
-       -  ***cdk deploy***
+         cdk deploy
 
-       -  ***cdk bootstrap***
+         cdk bootstrap
        
-       -  ***cdk ls***
+         cdk ls
 
-       -  ***cdk diff***
+         cdk diff
 
 </details>
 
@@ -110,9 +112,9 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
     
    - Create a new project using:
      
-          ***cdk init app —language typescript***
+         cdk init app —language typescript
 
-      ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/222f6f9a-ad96-4eee-a695-7d1d13c81a97/Untitled.png)
+      ![Untitled](https://user-images.githubusercontent.com/65444832/175103568-12abd09b-91c1-4e70-9d04-5494c3d778cd.png)
         
         
        
