@@ -1,8 +1,10 @@
 # cdk-workshop-hands-on
 It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe our SQS-Queue and Email to a SNS-Topic using cdk v2. 
 
-***Prerequisites***
 
+<details>
+   <summary>Prerequisites
+   </summary>
 
    - AWS CLI - Interact with AWS Services through Terminal Session.
         
@@ -99,21 +101,23 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
 
        -  ***cdk diff***
 
+</details>
 
-
-***New Project***
+<details>
+   <summary>
+      New Project
+   </summary>
     
-    
-       - Create a new project using:
+   - Create a new project using:
      
-                  ***cdk init app —language typescript***
+          ***cdk init app —language typescript***
 
-           ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/222f6f9a-ad96-4eee-a695-7d1d13c81a97/Untitled.png)
+      ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/222f6f9a-ad96-4eee-a695-7d1d13c81a97/Untitled.png)
         
         
        
        
-
+</details>
         
         
         
