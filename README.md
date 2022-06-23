@@ -114,12 +114,18 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
      
          cdk init app —language typescript
 
-      ![Untitled](https://user-images.githubusercontent.com/65444832/175103568-12abd09b-91c1-4e70-9d04-5494c3d778cd.png)
-        
-        
-       
+      ![Untitled](https://user-images.githubusercontent.com/65444832/175103568-12abd09b-91c1-4e70-9d04-5494c3d778cd.png)      
        
 </details>
+
+<details>
+   <summary>
+      Project Architecture
+   </summary>
+   
+   - Project Architecture
+   
+     The Architecture consist of an SNS Topic , SQS Queue and a email Subscription
         
         
         
