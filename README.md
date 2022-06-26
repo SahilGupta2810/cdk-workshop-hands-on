@@ -125,12 +125,39 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
 
 <details>
    <summary>
+      Resource name
+   </summary>
+   
+   - Stack Name
+   ```
+   CdkWorkshopHandsOnStack
+   ```
+   
+   - Topic name
+   ```
+   cdk-workshop-topic
+   ```
+   
+   - Queue name
+   ```
+   cdk-workshop-queue
+   ```
+</details>
+
+
+
+
+<details>
+   <summary>
       Project Architecture
    </summary>
    
-   - Project Architecture
+  - The Architecture consist of an SNS Topic , SQS Queue and a Email Subscription. When the user publishes a message using SNS topic , the subscriber to that topic gets notification and the message; as shown below.
    
-     The Architecture consist of an SNS Topic , SQS Queue and a email Subscription
+     ![Architecture](https://user-images.githubusercontent.com/65444832/175818561-54b81e61-133e-4b66-832d-153738835b66.png)
+   
+</details>
+
         
         
         
