@@ -95,18 +95,9 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
 
 
    - Useful CDK commands:
+      
+   ![image](https://user-images.githubusercontent.com/65444832/175819543-2c4937af-4b3f-40a4-a3b8-1eaa56f14cfa.png)
 
-            npm run build
-
-            cdk synth
-
-            cdk deploy
-
-            cdk bootstrap
-        
-            cdk ls
-
-            cdk diff
 
 </details>
 
