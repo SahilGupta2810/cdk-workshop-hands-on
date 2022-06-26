@@ -15,12 +15,14 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
             (Download .csv credentials file while creating an IAM User)
             
             ![image](https://user-images.githubusercontent.com/65444832/174357563-7de09f22-8b13-4a43-b7c8-03fb39f54920.png)
+            ```
             
             IAM User Name: ***cdk_user***
         
             Permission: ***Administartion Access***
 
             Access Type: ***Programmatic Access , AWS Management Console***
+            ```
             
            
         - Configure your AWS CLI using aws configure command
@@ -39,8 +41,10 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
             https://nodejs.dev/download](https://nodejs.dev/download
             
         - Check version : 
-            
+            ```
             node —version
+            ```
+   
             ![node-version](https://user-images.githubusercontent.com/65444832/174402030-82cd9e1d-f838-4753-b59e-0f775fe5ef6f.jpg)
 
             
@@ -54,10 +58,11 @@ It consist of a basic aws-cdk(SNS-SQS) stack. This shows how we can subscribe ou
    - AWS CDK Toolkit
     
         - Install the aws-cdk package and Check the cdk version using 
-       
+            ```
             npm install -g aws-cdk
     
             cdk —version
+            ```
    
         ![cdk-install](https://user-images.githubusercontent.com/65444832/174401171-2daf799c-3251-4f91-a162-a50f5ebc78a7.png)
 
